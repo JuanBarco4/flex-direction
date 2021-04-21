@@ -26,6 +26,8 @@ section{
     color: white;
     font-size: 60px;
     text-align: center;
+    padding-top: 15px;
+    box-sizing: border-box;
 }
 
 .numeros_2{
@@ -53,6 +55,7 @@ section{
     border: 1px solid #707070;
     margin-top: 25px;
     border-right: none;
+    
 }
 
 .numeros_3 div{
@@ -63,6 +66,8 @@ section{
     color: white;
     font-size: 60px;
     text-align: center;
+    padding-top: 15px;
+    box-sizing: border-box;
 }
 
 .numeros_4{
@@ -83,6 +88,8 @@ section{
     color: white;
     font-size: 60px;
     text-align: center;
+    padding-top: 15px;
+    box-sizing: border-box;
 }
 
 .separacion{
