@@ -45,6 +45,8 @@ section{
     color: white;
     font-size: 60px;
     text-align: center;
+    padding-top: 15px;
+    box-sizing: border-box;
 }
 
 .numeros_3{
