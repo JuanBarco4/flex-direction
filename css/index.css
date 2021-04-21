@@ -69,7 +69,7 @@ section{
     width: 650px;
     height: auto;
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
     border: 1px solid #707070;
     margin-top: 25px;
     border-left: none;
